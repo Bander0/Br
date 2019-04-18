@@ -3,4 +3,4 @@ prefix=Re
 game=Rehelp
 stayinchannel=true
 songinstatus=true 
-token=NDI2MjU1MDM1MTI3ODI0NDE0.XLiIrQ.boHgu-MTlKXeaMGxi0mlekHHE_o
+token=NTY4NDQ3NDQzOTg2MDIyNDMw.XLiODw.VOZ3PAKSLIRaegB-DPfys_r6HTo
