@@ -1,6 +1,6 @@
 owner=264421278692147202
-prefix=D
-game=DHelp
+prefix=Re
+game=Rehelp
 stayinchannel=true
 songinstatus=true 
 token=NDI2MjU1MDM1MTI3ODI0NDE0.XLiIrQ.boHgu-MTlKXeaMGxi0mlekHHE_o
